@@ -1,0 +1,33 @@
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+ul li {
+    color: green;
+}
+
+ol li {
+    color: teal;
+}
+
+a:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+img {
+    border: 10px, double, black;
+}
+
+img ~ p {
+    font-style: italic;
+}
